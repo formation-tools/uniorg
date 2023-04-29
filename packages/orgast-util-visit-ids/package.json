@@ -46,6 +46,6 @@
     "uniorg-parse": "^0.5.3"
   },
   "dependencies": {
-    "unist-util-visit-parents": "5.1.0"
+    "unist-util-visit-parents": "5.1.3"
   }
 }
